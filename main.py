@@ -1109,12 +1109,19 @@ def tools():
 ##############################################################################################
 def title():
     stdout.write("                                                                                          \n")
-    stdout.write("                   "+Fore.LIGHTWHITE_EX  +"██╗  ██╗ █████╗ ███████╗ ██████╗ ██╗  ██╗██╗                 \n")
-    stdout.write("                   "+Fore.LIGHTGREEN_EX  +"██║  ██║██╔══██╗██╔════╝██╔═══██╗██║ ██╔╝██║                 \n")
-    stdout.write("                   "+Fore.LIGHTGREEN_EX  +"███████║███████║███████╗██║   ██║█████╔╝ ██║                \n")
-    stdout.write("                   "+Fore.LIGHTGREEN_EX  +"██╔══██║██╔══██║╚════██║██║   ██║██╔═██╗ ██║                \n")
-    stdout.write("                   "+Fore.LIGHTGREEN_EX  +"██║  ██║██║  ██║███████║╚██████╔╝██║  ██╗██║                \n")
-    stdout.write("                   "+Fore.LIGHTGREEN_EX  +"╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝                \n")
+    stdout.write("                   "+Fore.LIGHTWHITE_EX  +"
+   ╔══════════════════════════╗
+   ║ 🚀       PANUSA       🚀║
+   ║   > zalo : 0363887584 <  ║
+   ╚╗       ngcaosang        ╔╝
+╔═══╩════════════╦═══════════╩════╗
+║     LAYER7     ║     LAYER4     ║
+║> SOCKET        ║> SYN           ║
+║> GET FLOOD     ║> TCP           ║
+║> HTTP GET      ║> UDP           ║
+║> CRINGE        ║> HTTP GET      ║
+╚════════════════╩════════════════╝                 \n")
+    
     stdout.write("             "+Fore.LIGHTGREEN_EX            +"        ══╦═════════════════════════════════╦══\n")
     stdout.write("             "+Fore.LIGHTGREEN_EX+"╔═════════╩═════════════════════════════════╩═════════╗\n")
     stdout.write("             "+Fore.LIGHTGREEN_EX+"║ "+Fore.LIGHTWHITE_EX   +"       PENTEST DOS MUTIL METHOD           "+Fore.LIGHTGREEN_EX  +"          ║\n")
